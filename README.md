@@ -3,11 +3,11 @@ Machine Intelligence Project
 
 To run:
 
-1. Clone the repository
+1. Clone the repository. Type the below command on terminal
 
    git clone https://github.com/amrithasp02/Music-Genre-Classifier.git
   
-2. Open command line in folder Music-Genre-Classifier
+2. Change directory to Music-Genre-Classifier
  
 3. Type the following to open the StreamLit application on localhost -
 

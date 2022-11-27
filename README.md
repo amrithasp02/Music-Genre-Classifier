@@ -5,7 +5,7 @@ To run:
 
 1. Clone the repository
 
-   \t git clone https://github.com/amrithasp02/Music-Genre-Classifier.git
+   git clone https://github.com/amrithasp02/Music-Genre-Classifier.git
   
 2. Open command line in folder Music-Genre-Classifier
  

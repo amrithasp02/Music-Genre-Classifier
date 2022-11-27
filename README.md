@@ -15,6 +15,7 @@ NOTE
 ---
 If any package is not imported and is throwing an error:
 Install it by -
-  pip install <package name>
+
+  pip install \<package name\>
   
 Run the app again

@@ -9,9 +9,9 @@ To run:
   
 2. Open command line in folder Music-Genre-Classifier
  
-3. type the following -
+3. Type the following to open the StreamLit application on localhost -
 
-  streamlit run streamlit_app.py
+    streamlit run streamlit_app.py
   
 NOTE
 ---

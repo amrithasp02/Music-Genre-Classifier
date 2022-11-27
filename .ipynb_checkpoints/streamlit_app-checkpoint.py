@@ -8,6 +8,6 @@ import numpy as np
 st.write(""" # Music Genre Classification""")
 st.header("UE20CS302 - Machine Intelligence Project")
 st.header("Team Members - ")
-st.caption(" # Aditya Rao PES1UG20CS020")
+st.caption(" # Aditya Rao PES1UG20CS022")
 st.caption(" # Amritha S Pallavoor PES1UG20CS037")
 st.caption(" # Ananya Jalan PES1UG20CS042")

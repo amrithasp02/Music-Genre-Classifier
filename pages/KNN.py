@@ -98,4 +98,4 @@ if file_uploader is not None:
     pred=nearestClass(getNeighbors(dataset ,feature , 5))
 
     string = "This song belongs to the genre - "+results[pred]
-    st.write(string)
+    st.success(string)
